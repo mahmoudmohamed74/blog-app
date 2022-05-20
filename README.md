@@ -1,2 +1,1 @@
-# blog-app
-with react
+# MernStack-Blog-App
